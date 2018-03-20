@@ -45,8 +45,8 @@ Definir una alternativa para aquellos usuarios que tienen complicaciones al busc
 - Vive solo
 - Es organizado
 
-_**Pain-point: **Seguridad._ <br>
-_**Qué beneficios que espera obtener: **Viajar seguro, de forma fácil y cómoda._
+_**Pain-point:** Seguridad._ <br>
+_**Qué beneficios que espera obtener:** Viajar seguro, de forma fácil y cómoda._
 
 
 ### Investigar
